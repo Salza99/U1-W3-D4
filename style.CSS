@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+main {
+  text-align: center;
+  margin: 0 auto;
+}
+div {
+  display: inline-block;
+  margin: 0 auto;
+}
+.celle {
+  border: 1px solid red;
+  margin: 1px 1px;
+  padding: 0 15px;
+  width: 20px;
+}
+.selezione {
+  border: 2px solid blue;
+}
